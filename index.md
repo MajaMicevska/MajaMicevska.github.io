@@ -1,4 +1,4 @@
-# Maja Micevska
+# My Background
 
 I am from Macedonia. I hold a PhD in Economics from Claremont Graduate University. My research interests are in blending econometric and machine learning methods to explore societal issues.
 
