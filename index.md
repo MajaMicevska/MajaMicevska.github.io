@@ -1,6 +1,6 @@
 ### My Background
 
-I am from Macedonia. I hold a PhD in Economics from Claremont Graduate University. My research interests are in blending econometric and machine learning methods to explore societal issues.
+I am from Macedonia. I hold a PhD in Economics from Claremont Graduate University, USA. My research interests are in blending econometric and machine learning methods to explore societal issues.
 
 I am currently affiliated with Vrije Universiteit Brussel (VUB) and UBI Business School.
 
