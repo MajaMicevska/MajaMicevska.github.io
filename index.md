@@ -13,4 +13,6 @@ Here are the ways to contact me:
 
 
 ### Some favorite maps
-<embed type="text/html" src="/img/mk_map (1).html" height="950" width="1150">
+<div style="display: flex; justify-content: center;">
+  <embed type="text/html" src="/img/mk_map (1).html" height="950" width="1150">
+</div>
