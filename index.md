@@ -24,3 +24,4 @@ Here are the ways to contact me:
     ">
         Interactive map of Macedonia
     </figcaption>
+</figure>
