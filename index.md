@@ -14,7 +14,7 @@ Here are the ways to contact me:
 
 ### Some favorite maps
 
-> Interactive map of Macedonia
+    Interactive mapf of Macedonia
 
 
 <div style="display: flex; justify-content: flex-start;">
