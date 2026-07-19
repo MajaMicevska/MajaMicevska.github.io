@@ -14,14 +14,11 @@ Here are the ways to contact me:
 
 ### Some favorite maps
 
-<figure style="text-align: left; margin: 20px 0;">
-    <embed type="text/html" src="/img/mk_map (1).html" height="950" width="1150">
-    <figcaption style="
-        font-style: bold; 
-        margin-top: 10px; 
-        color: #555;
-        font-size: 16px;
-    ">
-        Interactive map of Macedonia
-    </figcaption>
-</figure>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+    <figure style="margin: 0;">
+        <embed type="text/html" src="/img/mk_map (1).html" height="950" width="1150">
+        <figcaption style="font-style: italic; margin-top: 10px; color: #555; font-size: 16px;">
+            Figure 1: Interactive map of Macedonia 
+        </figcaption>
+    </figure>
+</div>
