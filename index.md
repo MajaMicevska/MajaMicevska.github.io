@@ -13,4 +13,4 @@ Here are the ways to contact me:
 
 
 ### Some favorite maps
-<embed type="text/html" src="/img/mk_map.html">
+<embed type="text/html" src="/img/mk_map (1).html" height="650" width="850">
