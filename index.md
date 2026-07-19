@@ -10,3 +10,7 @@ Here are the ways to contact me:
 * [email](mailto:maja.micevska@vub.be)
 * [LinkedIn](https://www.linkedin.com/in/maja-micevska-56187522/)
 * [Github](https://majamicevska.github.io/)
+
+
+### Some favorite maps
+<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
