@@ -22,5 +22,5 @@ Here are the ways to contact me:
         color: #555;
         font-size: 14px;
     ">
-        Macednia Eternal
+        Macedonia Eternal
     </figcaption>
